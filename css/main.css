@@ -5806,5 +5806,16 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.navbar-default {
+  width: 100%;
+  background-color: #2F1F1F;
+  color: white; }
+  .navbar-default .navbar-nav {
+    margin-right: 20%; }
+    .navbar-default .navbar-nav li a {
+      color: white; }
+
+.servicios div img {
+  border: 8px solid #DABF87; }
 
 /*# sourceMappingURL=main.css.map */
