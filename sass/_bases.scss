@@ -38,6 +38,15 @@
 		}
 	}
 }
+@media (max-width: 768px){
+	.servicios{
+		div{
+			img{
+				margin-top: 0px;
+			}
+		}
+	}
+}
 .welcome{
 	background-color: $fondo2;
 	padding: 70px;

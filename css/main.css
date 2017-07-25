@@ -5827,6 +5827,9 @@ button.close {
     background-color: #DABF87;
     padding: 2px; }
 
+@media (max-width: 768px) {
+  .servicios div img {
+    margin-top: 0px; } }
 .welcome {
   background-color: #F4F4F4;
   padding: 70px; }
