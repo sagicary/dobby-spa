@@ -5798,6 +5798,7 @@ button.close {
   .hidden-print {
     display: none !important; } }
 .navbar-default {
+  overflow-x: hidden;
   margin-bottom: 0px;
   border-bottom: 3px solid #2F1F1F;
   background-color: #2F1F1F;
@@ -5825,5 +5826,15 @@ button.close {
     color: #2F1F1F;
     background-color: #DABF87;
     padding: 2px; }
+
+.welcome {
+  background-color: #F4F4F4;
+  padding: 70px; }
+  .welcome h3 {
+    color: #DCB380; }
+  .welcome p {
+    font-size: 12px; }
+  .welcome ul li {
+    font-size: 12px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,6 +1,7 @@
 .navbar-default {
-margin-bottom: 0px;
-border-bottom: 3px solid $cafe;
+	overflow-x: hidden;
+	margin-bottom: 0px;
+	border-bottom: 3px solid $cafe;
     background-color: $cafe;
     color: $blanco;
     .navbar-nav{
@@ -37,3 +38,19 @@ border-bottom: 3px solid $cafe;
 		}
 	}
 }
+.welcome{
+	background-color: $fondo2;
+	padding: 70px;
+	h3{
+		color: $colora;
+	}
+	p{
+		font-size: 12px;
+	}
+	ul{
+		li{
+			font-size: 12px;
+		}
+	}
+}
+
