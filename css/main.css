@@ -5837,4 +5837,13 @@ button.close {
   .welcome ul li {
     font-size: 12px; }
 
+.about {
+  background-color: #4A3A3A;
+  padding: 50px; }
+  .about div h4 {
+    color: #DABF87;
+    font-weight: bold; }
+  .about div div p {
+    color: #DABF87; }
+
 /*# sourceMappingURL=main.css.map */

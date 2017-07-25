@@ -53,4 +53,19 @@
 		}
 	}
 }
+.about{
+	background-color: $fondo3;
+	padding: 50px;
+	div{
+		h4{
+		color: $colorcirculo;
+		font-weight: bold;
+		}
+		div{
+			p{
+			color: $colorcirculo;
+			}
+		}
+	}
+}
 
