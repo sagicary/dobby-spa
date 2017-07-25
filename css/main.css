@@ -5846,4 +5846,26 @@ button.close {
   .about div div p {
     color: #DABF87; }
 
+.footer {
+  background-color: #2F1F1F;
+  border-top: 3px solid #DABF87;
+  padding: 50px; }
+  .footer div h4 {
+    color: #DABF87;
+    padding-bottom: 20px; }
+  .footer div div img {
+    background-color: #BFB68D;
+    border: 5px solid #DE8660; }
+  .footer div .mail {
+    padding-top: 10px;
+    padding-bottom: 15px; }
+  .footer div p {
+    color: #DABF87;
+    font-size: 12px; }
+    .footer div p a {
+      color: #6D1E21; }
+  .footer div h5 {
+    color: #DABF87;
+    font-weight: bold; }
+
 /*# sourceMappingURL=main.css.map */

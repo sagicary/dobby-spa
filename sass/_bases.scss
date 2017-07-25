@@ -68,4 +68,36 @@
 		}
 	}
 }
+.footer{
+	background-color: $fondo4;
+	border-top: 3px solid $colorcirculo;
+	padding: 50px;
+	div{
+		h4{
+			color: $colorcirculo;
+			padding-bottom: 20px;
+		}
+		div{
+			img{
+				background-color: $coloricono;
+				border: 5px solid $coloriconoborde;
+			}
+		}
+		.mail{
+			padding-top: 10px;
+			padding-bottom: 15px;
+		}
+		p{
+			color: $colorcirculo;
+			font-size: 12px;
+			a{
+				color: $colorlink;
+			}
+		}
+		h5{
+			color: $colorcirculo;
+			font-weight: bold;
+		}
+	}
+}
 
